@@ -1,0 +1,1 @@
+model = YOLO("best_fire.pt")
